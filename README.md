@@ -2,6 +2,6 @@
 
 Seja bem vindo ao livro de receitas:wave:
 
-- Strogonoff de frnago;
-- ​
+- Strogonoff de frango;
+- Pavê;
 
