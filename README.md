@@ -1,7 +1,8 @@
-# Livro de receitas:man_cook:
+Livro de receitas👨‍🍳
 
-Seja bem vindo ao livro de receitas:wave:
+Seja bem vindo ao livro de receitas👋
 
 - Strogonoff de frango;
 - Pavê;
+- Bolo de Cenoura;
 
